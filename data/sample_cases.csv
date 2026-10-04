@@ -1,0 +1,9 @@
+id,text,label,language,category
+1,"Your bank account will be blocked today. Verify KYC immediately at https://example.com",scam,en,banking_kyc
+2,"Congratulations! You won a cash reward. Pay a small processing fee to claim it.",scam,en,prize
+3,"Meeting is scheduled for tomorrow at 10 AM. Please bring the project report.",benign,en,benign
+4,"Aapka KYC expire ho gaya hai, turant OTP share karke account verify kare.",scam,hi,banking_kyc
+5,"Your parcel has been delivered. Thank you for using our service.",benign,en,benign
+6,"Work from home job available. Pay registration fee today to start earning.",scam,en,job
+7,"Your electricity bill is due next month. Please use the official app.",benign,en,benign
+8,"Turant payment karo aur cashback reward pao.",scam,hi,payment

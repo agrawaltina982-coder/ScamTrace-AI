@@ -1,0 +1,9 @@
+streamlit>=1.45
+requests>=2.32
+pandas>=2.2
+Pillow>=10.0
+pytesseract>=0.3.13
+tldextract>=5.1
+scikit-learn>=1.5
+python-dotenv>=1.0
+faster-whisper>=1.1.0
