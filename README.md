@@ -42,6 +42,7 @@ Audio ── Whisper ────┘             │
                                   │
                                   ↓
                     Explainable Decision + Actions
+```
 
 ## 1. Install Python Environment
 
